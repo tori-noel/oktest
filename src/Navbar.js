@@ -5,22 +5,17 @@ export default function Navbar() {
     <ul class="nav">
       <li class="nav-item">
         <a class="nav-link active" aria-current="page" href="#">
-          Active
+          Home
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">
-          Link
+          About Us
         </a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">
-          Link
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">
-          Disabled
+          Get in Touch
         </a>
       </li>
     </ul>
