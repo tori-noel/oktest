@@ -1,3 +1,14 @@
 .nav-link {
   color: rgb(255, 128, 62);
+  padding: 20px;
+  margin-right: 20px;
+  font-family: "League Spartan", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.nav-link:hover {
+  background-color: rgb(255, 128, 62);
+  color: rgb(65, 105, 224);
+  border-radius: 5px;
 }
