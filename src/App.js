@@ -1,14 +1,10 @@
-import logo from "./logo.png";
 import "./App.css";
-import Navbar from "./Navbar";
+import Logo from "./logo.png";
+
 function App() {
   return (
     <div className="App">
-      <header>
-        {" "}
-        <Navbar />{" "}
-      </header>
-      <img src={logo} className="App-logo" alt="logo" />
+      <img src={Logo} className="App-logo" alt="logo" />
     </div>
   );
 }
